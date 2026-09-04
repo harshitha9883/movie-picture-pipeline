@@ -1,0 +1,7 @@
+creds.sh
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
+starter/frontend/build/
+starter/frontend/node_modules/
